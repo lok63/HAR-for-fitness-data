@@ -6,5 +6,10 @@ Re-produce the code in python for the study conducted in this paper [MyoGym - In
 ## TO-DO
 
 - [ ] Subject Dependent evaluation
--[ ] Subject Independent evaluation
+- [ ] Subject Independent evaluation
+
+### 2. Feature Extraction
+- [ ] Time domain [ Mean, std, variance, interquartile range (IQR), mean absolute deviation (MAD), correlation between axes, entropy Kurtosis ] 
+- [ ] Fourier Transform, Wavelet Transform
+
 
