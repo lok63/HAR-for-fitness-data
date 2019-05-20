@@ -11,5 +11,18 @@ Re-produce the code in python for the study conducted in this paper [MyoGym - In
 ### 2. Feature Extraction
 - [ ] Time domain [ Mean, std, variance, interquartile range (IQR), mean absolute deviation (MAD), correlation between axes, entropy Kurtosis ] 
 - [ ] Fourier Transform, Wavelet Transform
+- [ ] PCA, LDA, Autoregressive Model (AR) , HAAR filters
+
+### 3. Time Window selection
+- [ ] Windows [0.08s, 1, 1.5, 3, 5, 7, 12, 30]
+
+### 3. Feature Selection
+- [ ] (BIC) Bayessian Information Criterion   
+- [ ] (MDL) Minimum Description Length 
+- [ ] (CFS) Correlation-based Feature Selection 
+- [ ] (MRMR) Minimum Redundancy Maximum Relevance 
+  - [ ] Minimum mutual information between features
+  - [ ] Maximal mutual information between the classes and the features
+
 
 
