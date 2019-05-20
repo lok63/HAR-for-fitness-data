@@ -14,6 +14,12 @@ Re-produce the code in python for the study conducted in this paper [MyoGym - In
 - [ ] PCA, LDA, Autoregressive Model (AR) , HAAR filters
 
 ### 3. Time Window selection
+
+* Having short windows might enchance the FE performance but it could increase the complexity of the system since the number of windows will be increased. 
+* Really small windows might not be able to capture sufficient information to fully describe the performed activity
+* Large windows could capture multiple activities 
+* We can use overlapping windows to identify the transition period
+
 - [ ] Windows [0.08s, 1, 1.5, 3, 5, 7, 12, 30]
 
 ### 3. Feature Selection
