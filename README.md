@@ -17,12 +17,15 @@ Re-produce the code in python for the study conducted in this paper [MyoGym - In
 - [ ] Windows [0.08s, 1, 1.5, 3, 5, 7, 12, 30]
 
 ### 3. Feature Selection
-- [ ] (BIC) Bayessian Information Criterion   
-- [ ] (MDL) Minimum Description Length 
-- [ ] (CFS) Correlation-based Feature Selection 
-- [ ] (MRMR) Minimum Redundancy Maximum Relevance 
-  - [ ] Minimum mutual information between features
-  - [ ] Maximal mutual information between the classes and the features
+
+Feature selection is ideal for HAR systems which have many features such as HR monitors, temperatures sensors, humitity etc. In this case since we are using Accelerometers and Electormagnetic sensors we might avoid this tecnique initially. At the end of this project some of these methods will be implemented to test if they improve the performance of the current model
+
+- [ ] <del>(BIC) Bayessian Information Criterion   
+- [ ] <del>(MDL) Minimum Description Length 
+- [ ] <del>(CFS) Correlation-based Feature Selection 
+- [ ] <del>(MRMR) Minimum Redundancy Maximum Relevance 
+  - [ ] <del>Minimum mutual information between features
+  - [ ] <del>Maximal mutual information between the classes and the features
 
 ### 4. Learning
 - [ ] Decion Trees
