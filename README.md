@@ -24,5 +24,22 @@ Re-produce the code in python for the study conducted in this paper [MyoGym - In
   - [ ] Minimum mutual information between features
   - [ ] Maximal mutual information between the classes and the features
 
+### 4. Learning
+- [ ] Decion Trees
+- [ ] Bayesian
+- [ ] K-nearest
+- [ ] MLP
+- [ ] SVC
+- [ ] Fuzzy basis function + Fuzzy Inference System
+- [ ] Boosting + Bagging models
+
+### 5. Evaluation 
+- [ ] Cross Validation 
+- [ ] Binary Classification where positive is the desired class and negative all the others
+
+
+
+
+
 
 
