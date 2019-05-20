@@ -5,6 +5,6 @@ Re-produce the code in python for the study conducted in this paper [MyoGym - In
 
 ## TO-DO
 
--[ ] Subject Dependent evaluation
+- [ ] Subject Dependent evaluation
 -[ ] Subject Independent evaluation
 
